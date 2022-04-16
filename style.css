@@ -1,0 +1,51 @@
+body {
+    background: rgb(0, 81, 255);
+}
+h1{
+    font: normal 25pt Arial;
+    text-align: center;
+}
+div {
+    font:normal 15pt Arial;
+    color: rgb(0, 0, 0);
+    text-align: center;         
+}
+p{
+    font: normal 15pt Arial;     
+}
+section{
+    background: white;
+    width: 700px;
+    height: auto;
+    border-radius: 15px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px black;
+}   
+div#bota {
+    text-align: center;
+}
+button {
+    width: 100px;
+    height: 50px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);        
+}
+p2{
+    color: green;
+}    
+div1{
+    color:rgb(0, 26, 255);
+    font: normal 20pt Arial;
+} 
+section3{
+    background: white;
+    padding: 5px;
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.377);
+    
+}
+div2 {
+    color:rgb(39, 1, 255);
+    font-style: italic;
+    font-weight: 600;
+}
